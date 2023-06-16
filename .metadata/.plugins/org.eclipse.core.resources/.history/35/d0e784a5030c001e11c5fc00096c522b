@@ -1,0 +1,5 @@
+package com.example.ProductMangement.repositery;
+
+public interface ProductRepositery {
+
+}
